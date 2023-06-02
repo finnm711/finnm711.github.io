@@ -1,0 +1,30 @@
+<style>
+        body {
+            font-size: 18px;
+            background-color:grey
+        }
+        #mets-info-heading {
+            font-weight:bold;
+        }
+
+        #mets-info {
+            color: rgb(0, 36, 214);
+            font-weight: bold;
+            font-family: fantasy;
+            align: right
+        }
+
+        #image {
+            height: 300px;
+            padding: 10px;
+            margin: 10px ;
+        }
+
+        h1 {
+            color: rgb(240, 124, 0);
+            font-family: verdana;
+        }
+        body {
+            background-color: gray;
+        }
+</style>
